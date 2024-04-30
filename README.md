@@ -8,11 +8,14 @@ ICh würde mich gerne auch ein bisschen um die Gestaltung kümmern einfach weil 
 ##  23.4.2024
 Heute habe ich vorallem darüber nachgedacht ob ich den Discord bot abschliessen oder eine Website beginnen Sollte. Ich habe auch mit Tom Aggett und Eldin Mrkonjic besprochen was sie machen und wie man so ein Projekt angehen könnte.
 Ich habe mich generell noc hkurz über CSS und HTML informiert.
-30.4.2024
+## 30.4.2024
 - [ ] aufsetzten Code / Infos
 - [ ] Grundtext
 - [ ] HTML besser kennenlernen / herumprobieren
 - [ ] Grundstruktur Website (design)
-✍️ Heute habe ich... (50-100 Wörter)
+heute habe ich begonnen mit meiner Website. Es hat zwar zuerst ein bischen gedauert, bis ich mich an HTML/CSS gewöhnt habe, aber ich denke dieses Porblem habe ich jetzt überwunden. Ich habe einen kurzen text verfassen lassen und habe herumprobiert mit scrolle, Hintergrund und Titel.
+## 7.5.24
+- [ ] Bilder richtig einfügen
+- [ ] text um die Bilder herum anfügen
+- [ ] Mehrere Seiten zum scrollen
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
