@@ -17,5 +17,6 @@ heute habe ich begonnen mit meiner Website. Es hat zwar zuerst ein bischen gedau
 ## 7.5.24
 - [ ] Bilder richtig einfügen
 - [ ] text um die Bilder herum anfügen
-- [ ] Mehrere Seiten zum scrollen
+- [x] Mehrere Seiten zum scrollen
+Ich habe heute mich mehr auf den Protfoliobeitrag in IPA bei Herrn Thievant konzentriert. Ich habe dort zwei tage dokumentiert. Ich übernehme nun die Lernpakete von letztem Mal auf das nächste mal. Trotzdem habe ich das scrollen auf der Website ermöglichen können.,
 
