@@ -9,8 +9,8 @@ ICh würde mich gerne auch ein bisschen um die Gestaltung kümmern einfach weil 
 Heute habe ich vorallem darüber nachgedacht ob ich den Discord bot abschliessen oder eine Website beginnen Sollte. Ich habe auch mit Tom Aggett und Eldin Mrkonjic besprochen was sie machen und wie man so ein Projekt angehen könnte.
 Ich habe mich generell noc hkurz über CSS und HTML informiert.
 ## 30.4.2024
-- [ ] aufsetzten Code / Infos
-- [ ] Grundtext
+- [x] aufsetzten Code / Infos
+- [x] Grundtext
 - [ ] HTML besser kennenlernen / herumprobieren
 - [ ] Grundstruktur Website (design)
 heute habe ich begonnen mit meiner Website. Es hat zwar zuerst ein bischen gedauert, bis ich mich an HTML/CSS gewöhnt habe, aber ich denke dieses Porblem habe ich jetzt überwunden. Ich habe einen kurzen text verfassen lassen und habe herumprobiert mit scrolle, Hintergrund und Titel.
@@ -18,5 +18,10 @@ heute habe ich begonnen mit meiner Website. Es hat zwar zuerst ein bischen gedau
 - [ ] Bilder richtig einfügen
 - [ ] text um die Bilder herum anfügen
 - [x] Mehrere Seiten zum scrollen
-Ich habe heute mich mehr auf den Protfoliobeitrag in IPA bei Herrn Thievant konzentriert. Ich habe dort zwei tage dokumentiert. Ich übernehme nun die Lernpakete von letztem Mal auf das nächste mal. Trotzdem habe ich das scrollen auf der Website ermöglichen können.,
+Ich habe heute mich mehr auf den Protfoliobeitrag in IPA bei Herrn Thievant konzentriert. Ich habe dort zwei tage dokumentiert. Ich übernehme nun die Lernpakete von letztem Mal auf das nächste mal. Trotzdem habe ich das scrollen auf der Website ermöglichen können.
+## 14.5.24
+Heute habe ich für den SWIR Test Gelernt. Ich hatte leider zu wenig Zeit um gross vorher zu lernen :(.
+## 21.5.24
+heute habe ich ein bisschen an meinem design der Website gearbeitet. Respektive habe ich mehrere Wege gesucht wie man ein Bild in Css oder HTML einfügen kann. Zusätzlich habe ich mit dem CSS und HTML Modul bei Herr Thievent weitergemacht. Da habe ich die Aufgaben der CSS einführung gelöst.
+
 
