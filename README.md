@@ -23,5 +23,5 @@ Ich habe heute mich mehr auf den Protfoliobeitrag in IPA bei Herrn Thievant konz
 Heute habe ich für den SWIR Test Gelernt. Ich hatte leider zu wenig Zeit um gross vorher zu lernen :(.
 ## 21.5.24
 heute habe ich ein bisschen an meinem design der Website gearbeitet. Respektive habe ich mehrere Wege gesucht wie man ein Bild in Css oder HTML einfügen kann. Zusätzlich habe ich mit dem CSS und HTML Modul bei Herr Thievent weitergemacht. Da habe ich die Aufgaben der CSS einführung gelöst.
-
-
+##29.5
+Wir mussten dringend für Deutsch lernen. Es ist schade das die Kanti uns fast keine andere Möglichkeit gibt als im Lernatelier für Prüfungen zu lernen.
