@@ -27,3 +27,10 @@ heute habe ich ein bisschen an meinem design der Website gearbeitet. Respektive 
 Wir mussten dringend für Deutsch lernen. Es ist schade das die Kanti uns fast keine andere Möglichkeit gibt als im Lernatelier für Prüfungen zu lernen.
 ## 11.6.24
 Wieder einmal mussten wir dringend für eine der fünf Prüfungen dieser Woche Lernen. In den Nöchsten Lernatelier STunden werde ich mich mit den LBs befassen. somit werde ich am Schluss doch eine braucbare Website abgeben können. ABer jetzt ist nun Prüfungsphase und ich konnte nicht die Kanti prüfungen vernachlässigen
+## 19.6.24
+Heute habe ich für die Lb im Modul 293 gearbeitet. Ich habe nun also Subpages zu meiner Website hinzugefügt. 
+## fertiges Projekt
+Mein Projekt beinhaltet bis jetzt 4 verschiedene Subpages. Heute habe ich auch de Website noch responsive gemacht. Auch gibt es ein Drop down Menü, aus welchem man die verschiedenen Subpages erreichen kann. Mein projekt läuft nun über https://hema-historical-fencing.netlify.app.
+
+![image](https://github.com/typhmoon18/lernperiode-5/assets/142885388/ded65872-4a84-4428-8baa-089a671ff586)
+
