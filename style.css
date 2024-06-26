@@ -1,3 +1,21 @@
+
+.Geschichte {
+    color: #fff;
+    font-size: large;
+    
+}
+.Turniere {
+    color:#fff;
+    font-size: large;
+}
+.clubs {
+    color:#fff;
+    font-size: large;
+}
+.quellen {
+    color:#fff;
+    font-size: large;
+}
 body {
     background-image: url('fotos_hema/wallpaper2.jpg');
     background-size: cover;
@@ -71,7 +89,7 @@ h2 {
 .content {
     margin-left: 250px;
     padding: 20px;
-    width: calc(100% - 250px);
+    width: calc(100% - 300px);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -149,4 +167,24 @@ h2 {
     .content {
         padding: 10px;
     }
+}
+footer {
+    background-color: #000000;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+
+footer a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+footer a:hover {
+    text-decoration: underline;
 }
